@@ -56,7 +56,6 @@ AUTHOR_FEED_RSS = None
 LINKS = (
   ('/images/us-flag-icon-31.png', 'ActBlue', 'https://secure.actblue.com/'),
   ('/images/us-flag-icon-31.png', 'DailyKos Action', 'https://www.dailykos.com/campaigns'),
-  ('/images/us-flag-icon-31.png', 'FAS Research Computing', 'http://rc.fas.harvard.edu'),
 )
 
 SHOW_ARTICLE_AUTHOR = True

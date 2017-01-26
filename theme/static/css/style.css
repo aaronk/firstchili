@@ -46,6 +46,7 @@ a {
 
 a:hover {
     color: orange;
+    text-decoration: none;
 }
 
 code {
@@ -56,10 +57,12 @@ code {
 h1 {
 	font-size: 28px;
 	font-weight: bold;
+    font-style: italic;
 	margin-top: 2em;
 }
 
 h2 {
+    font-style: italic;
 	font-size: 22px;
 	font-weight: bold;
 	margin-top: 2em;
@@ -410,6 +413,11 @@ figure.floatcenter, .align-center {
     background: -o-linear-gradient(#6199d1,white); 
     background: -moz-linear-gradient(#6199d1,white);
     color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-weight: bold;
 }
 
 .navbar-default a {
